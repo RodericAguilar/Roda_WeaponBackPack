@@ -14,4 +14,4 @@
 
 ## Reference
 
-- [guy293_holsterweapon] (https://github.com/Guy293/esx_guy293_HolsterWeapon)
+- [guy293_holsterweapon](https://github.com/Guy293/esx_guy293_HolsterWeapon)
